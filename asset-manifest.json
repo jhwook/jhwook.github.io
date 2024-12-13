@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.6db6e886.js",
+    "main.js": "/static/js/main.5e583d8a.js",
     "static/js/453.02cb82ae.chunk.js": "/static/js/453.02cb82ae.chunk.js",
     "static/media/배틀마스터.png": "/static/media/배틀마스터.c867cc9fd388020138c8.png",
     "static/media/서머너.png": "/static/media/서머너.588ee76dbb706c55f4f7.png",
@@ -31,11 +31,11 @@
     "static/media/홀리나이트.png": "/static/media/홀리나이트.f61728ad93b548a83281.png",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.6db6e886.js.map": "/static/js/main.6db6e886.js.map",
+    "main.5e583d8a.js.map": "/static/js/main.5e583d8a.js.map",
     "453.02cb82ae.chunk.js.map": "/static/js/453.02cb82ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.6db6e886.js"
+    "static/js/main.5e583d8a.js"
   ]
 }
